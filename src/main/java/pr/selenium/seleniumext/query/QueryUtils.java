@@ -10,7 +10,7 @@ import pr.selenium.seleniumext.component.AbstractComponent;
 
 /**
  *
- * @author ASUS
+ * @author Prashant
  */
 public class QueryUtils {
     

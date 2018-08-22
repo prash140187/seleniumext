@@ -7,7 +7,7 @@ package pr.selenium.seleniumext.query;
 
 /**
  *
- * @author ASUS
+ * @author Prashant
  */
 public abstract class AbstractSelector implements Selector {
     

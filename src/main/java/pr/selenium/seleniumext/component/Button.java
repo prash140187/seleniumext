@@ -7,7 +7,7 @@ package pr.selenium.seleniumext.component;
 
 /**
  *
- * @author ASUS
+ * @author Prashant
  */
 public class Button {
     
